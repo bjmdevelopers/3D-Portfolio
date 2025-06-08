@@ -1,6 +1,9 @@
 # **Modern 3D Portfolio**
  
-live Demo 
+## Live Demo
+
+[Live Demo](https://bjmdevelopers.github.io/3D-Portfolio/)
+
 
 ## 🌟 **Features**
 - **Immersive 3D Particle Background** with interactive connections

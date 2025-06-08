@@ -4,6 +4,7 @@
 
 [Live Demo](https://bjmdevelopers.github.io/3D-Portfolio/)
 
+---
 
 ## 🌟 **Features**
 - **Immersive 3D Particle Background** with interactive connections
@@ -14,10 +15,14 @@
 - **Form Validation** with live feedback
 - **No Frameworks** - Pure HTML, CSS, and Vanilla JS
 
+---
+
 ## 🚀 **Quick Start**
 1. **Download** the repository
 2. **Open** `index.html` in any modern browser
 3. **That's it!** No build step required
+
+---
 
 ## 🛠️ **Customization**
 
